@@ -1,10 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "unpackaged",
+      "path": "force-app",
       "default": true
     }
   ],
+  "name": "gearset",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0"
